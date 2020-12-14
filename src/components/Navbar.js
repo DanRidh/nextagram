@@ -113,10 +113,6 @@ const NavBar = ({ setLoggedIn, loggedIn, setLoggedInUser, loggedInUser }) => {
             className="navbar-brand ml-1"
             href="/"
           >
-            <img src="http://clipart-library.com/new_gallery/119-1193043_jpg-stock-camera-drawing-clip-art-transprent-png.png"
-             alt="logo"
-             style={{height: '40px', paddingBottom: '3px', marginRight: '5px'}}
-            />
             Nextagram
           </a>
         </Navbar.Brand>
